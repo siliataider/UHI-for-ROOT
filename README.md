@@ -1,4 +1,4 @@
-[![SWAN](https://swan.web.cern.ch/sites/swan.web.cern.ch/files/pictures/open_in_swan.svg)](https://cern.ch/swanserver/cgi-bin/go?projurl=https://github.com/siliataider/UHI-for-ROOT.git)
+[![SWAN](https://swan.web.cern.ch/sites/swan.web.cern.ch/files/pictures/open_in_swan.svg)](https://cern.ch/swanserver/cgi-bin/go?projurl=https://github.com/siliataider/UHI-for-ROOT.git){:target="_blank"}
 
 # UHI Hands-On Session for ROOT
 
