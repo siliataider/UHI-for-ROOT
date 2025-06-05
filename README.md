@@ -4,7 +4,7 @@
 
 Welcome to the [Unified Histogram Interface (UHI)](https://uhi.readthedocs.io/en/latest/) hands-on session for [ROOT](https://github.com/root-project/root)!
 
-The UHI brings a powerful, pythonic way to manipulate histograms and seamlessly integrates with Python libraries like [numpy](https://numpy.org/).
+The UHI brings a powerful, pythonic way to manipulate histograms and seamlessly integrates with Python libraries like [numpy](https://numpy.org/) and [mplhep](https://mplhep.readthedocs.io/en/latest/).
 🔗 Read more about the UHI here and ROOT's implementation [here](https://root.cern.ch/doc/master/group__uhi__docs.html).
 
 > [!IMPORTANT]  
