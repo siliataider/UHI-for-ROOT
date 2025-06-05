@@ -11,7 +11,7 @@ The UHI brings a powerful, pythonic way to manipulate histograms and seamlessly 
 > [!IMPORTANT]  
 > Available for ROOT 6.36 and beyond! 💡
 
-✨ Why This Session?
+## ✨ Why This Session?
 
 Learn how to:
 - 🛠 Create and fill ROOT histograms from numpy data.
@@ -19,11 +19,11 @@ Learn how to:
 - 📊 Plot your histograms with modern Python libraries.
 
 
-🗂 What's Inside?
+## 🗂 What's Inside?
 - A ready-to-use SWAN project with step-by-step instructions.
 - Hands-on examples that showcase UHI's main features in ROOT.
 
-🚦 Ready to Start?
+## 🚦 Ready to Start?
 
 This session runs on [SWAN](https://swan.web.cern.ch/swan/), CERN’s cloud-based analysis platform.
 👉 Open the project by [clicking here](https://cern.ch/swanserver/cgi-bin/go?projurl=https://github.com/siliataider/UHI-for-ROOT.git) and follow the instructions in the notebook.
