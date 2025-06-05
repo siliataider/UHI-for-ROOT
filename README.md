@@ -2,7 +2,7 @@
 
 # UHI Hands-On Session for ROOT
 
-This repository contains the materials for the [Unified Histogram Interface (UHI)](https://uhi.readthedocs.io/en/latest/) hands-on session for [ROOT](https://github.com/root-project/root).
+This repository contains the materials for the [Unified Histogram Interface (UHI)](https://uhi.readthedocs.io/en/latest/){:target="_blank"} hands-on session for [ROOT](https://github.com/root-project/root){:target="_blank"}.
 
 The UHI is a specification aiming at unifying histogram operations for a more pythonic manipulation and interoperability with other Python libraries. 
 You can read more about ROOT's implementation [here](https://root.cern.ch/doc/master/group__uhi__docs.html)
