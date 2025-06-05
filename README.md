@@ -1,4 +1,4 @@
-[![SWAN](https://swan.web.cern.ch/sites/swan.web.cern.ch/files/pictures/open_in_swan.svg)](https://cern.ch/swanserver/cgi-bin/go?projurl=https://github.com/root-project/student-course.git)
+[![SWAN](https://swan.web.cern.ch/sites/swan.web.cern.ch/files/pictures/open_in_swan.svg)](https://cern.ch/swanserver/cgi-bin/go?projurl=https://github.com/siliataider/UHI-for-ROOT.git)
 
 # UHI Hands-On Session for ROOT
 
@@ -20,4 +20,4 @@ The session demonstrates the powerful set of features UHI provides for ROOT, ava
 ## Get started
 The session is designed to be run on [SWAN](https://swan.web.cern.ch/swan/), CERN's cloud-based analysis platform. 
 
-You can clone the SWAN project by clicking here and follow the instructions on the notebook.
+You can clone the SWAN project by [clicking here](https://cern.ch/swanserver/cgi-bin/go?projurl=https://github.com/siliataider/UHI-for-ROOT.git) and follow the instructions on the notebook.
