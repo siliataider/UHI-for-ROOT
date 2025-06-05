@@ -19,7 +19,7 @@ Learn how to:
 - 📊 Plot your histograms with modern Python libraries.
 
 
-## 🗂 What's Inside?
+## 📚 What's Inside?
 - A ready-to-use SWAN project with step-by-step instructions.
 - Hands-on examples that showcase UHI's main features in ROOT.
 
