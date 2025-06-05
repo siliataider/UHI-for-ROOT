@@ -9,7 +9,7 @@ The UHI brings a powerful, pythonic way to manipulate histograms and seamlessly 
 🔗 Read more about the UHI and ROOT's implementation [here](https://root.cern.ch/doc/master/group__uhi__docs.html).
 
 > [!IMPORTANT]  
-> Available for ROOT 6.36 and beyond! 💡
+> Available from ROOT 6.36 💡
 
 ## ✨ Why This Session?
 
