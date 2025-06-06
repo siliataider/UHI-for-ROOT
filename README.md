@@ -27,4 +27,4 @@ Learn how to:
 
 This session runs on [SWAN](https://swan.web.cern.ch/swan/), CERN’s cloud-based analysis platform.
 
-👉 Open the project by [clicking here](https://cern.ch/swanserver/cgi-bin/go?projurl=https://github.com/siliataider/UHI-for-ROOT.git) and follow the instructions in the notebook.
+👉 Open the project by [clicking here](https://cern.ch/swanserver/cgi-bin/go?projurl=https://github.com/siliataider/UHI-for-ROOT.git) and follow the instructions in the notebooks.
