@@ -9,7 +9,12 @@ The UHI brings a powerful, pythonic way to manipulate histograms and seamlessly 
 🔗 Read more about the UHI and ROOT's implementation [here](https://root.cern.ch/doc/master/group__uhi__docs.html).
 
 > [!IMPORTANT]  
-> Available from **ROOT 6.36** 💡
+> This feature is available from **ROOT 6.36** 💡
+> 
+> We recommend selecting the `Bleeding Edge` software stack on SWAN to get access to ROOT's latest features.
+> 
+> ![image](https://github.com/user-attachments/assets/b6ca6633-48bb-4141-a85e-a4d9ad6c3fab)
+
 
 ## ✨ Why This Session?
 
